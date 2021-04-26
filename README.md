@@ -18,7 +18,7 @@ Project made for Codecademy as part of the Full-Stack learning path.
 * CSS Grid
 
 ## Page link
-https://github.com/JRompinelli/ResponsiveClubWebsite/settings/pages
+https://jrompinelli.github.io/ResponsiveClubWebsite/
 
 ## Status
 Project is: _finished_.
